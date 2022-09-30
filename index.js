@@ -25,7 +25,8 @@ let mailOptions = {
   subject: 'Nodemailer test',
   // text: 'Hi from your nodemailer landslide project',
   html: `<h1>Landslide Email</h1>
-    <b>Do you receive this mail ?</b> `, // HTML body
+  <h2>Testing an automated mailing list feature! ~dan</h2>
+    <b>Did you receive this mail?</b> `, // HTML body
 };
 
 transporter.sendMail(mailOptions, function (err, data) {
