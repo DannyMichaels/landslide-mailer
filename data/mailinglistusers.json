@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "61b6cbaca09f12e4df0d3597"
+  },
+  "firstName": "Daniel",
+  "lastName": "Michael",
+  "email": "itzdanielmichael@gmail.com",
+  "city": "Rockville Centre",
+  "state": "NY",
+  "country": "United States",
+  "zipCode": "11570",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1639369644951"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1639369644951"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635551fa926a7426731eec18"
+  },
+  "firstName": "Luke",
+  "lastName": "Wollwebber",
+  "email": "lweber444@gmail.com",
+  "city": "Oceanside",
+  "state": "NY",
+  "country": "United States",
+  "zipCode": "11572",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666535930620"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666535930620"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63555b30801023b4a4fb0ad3"
+  },
+  "firstName": "Daniel",
+  "lastName": "Michael",
+  "email": "danielmichaelofficial@gmail.com",
+  "city": "Rockville Centre",
+  "state": "NY",
+  "country": "United States",
+  "zipCode": "11570",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666538288467"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666538288467"
+    }
+  },
+  "__v": 0
+}]
